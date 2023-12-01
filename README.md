@@ -30,10 +30,10 @@
 `select * from test_table;`  
 В качестве результата вашей работы пришлите скриншоты:  
 
-1) Созданной базы данных;
-![](https://github.com/Svalker1989/db_in_cloud/blob/main/Z1_1.PNG)
-2) Результата вывода команды на реплике select * from test_table;.
-![](https://github.com/Svalker1989/db_in_cloud/blob/main/Z1_2.PNG)
+1) Созданной базы данных;  
+![](https://github.com/Svalker1989/db_in_cloud/blob/main/Z1_1.PNG)  
+2) Результата вывода команды на реплике `select * from test_table;`.  
+![](https://github.com/Svalker1989/db_in_cloud/blob/main/Z1_2.PNG)  
 ### Задание 2*
 Создайте кластер, как в задании 1 с помощью Terraform.  
 В качестве результата вашей работы пришлите скришоты:  
